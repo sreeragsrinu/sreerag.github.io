@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## Hi, I'm Sreerag 👋
+🎓 BCA Data Science Student  
+📊 Aspiring Data Analyst  
 
-# Run and deploy your AI Studio app
+I transform raw data into meaningful insights using tools like Excel, SQL, Power BI, and Python.
 
-This contains everything you need to run your app locally.
+## 🚀 About Me
+- 📊 Passionate about Data Analysis and Visualization  
+- 🧠 Strong in Excel, SQL, and Power BI  
+- 📈 Interested in solving real-world business problems using data  
+- 🎯 Currently looking for Data Analyst opportunities
 
-View your app in AI Studio: https://ai.studio/apps/5a040720-ab10-4c92-b433-f3282ad379b2
+- ## 🛠️ Skills & Tools
+- **Languages:** SQL, Python  
+- **Tools:** Excel, Power BI, GitHub  
+- **Techniques:** Data Cleaning, Data Visualization, KPI Analysis, Trend Analysis
 
-## Run Locally
+- ## 📂 Featured Projects
 
-**Prerequisites:**  Node.js
+### 📊 Sales Data Analysis
+- Analyzed 10,000+ rows of sales data using Excel and SQL  
+- Created interactive dashboard in Power BI  
+- Identified top-performing regions and products  
 
+### 📈 Customer Segmentation
+- Used Python for clustering customers  
+- Improved targeting strategy insights  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+👉 More projects in repositories
