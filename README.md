@@ -27,3 +27,6 @@ I transform raw data into meaningful insights using tools like Excel, SQL, Power
 - Improved targeting strategy insights  
 
 👉 More projects in repositories
+
+### Link
+sreeragportfolio.netlify.app
