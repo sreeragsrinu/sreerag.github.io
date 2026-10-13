@@ -1,0 +1,581 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 8050
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 19 Tf
+21.8499999999999979 TL
+0.078 g
+241.9699999999999989 802.2049606299212883 Td
+(SREERAG S) Tj
+ET
+BT
+/F2 8.8 Tf
+10.1199999999999992 TL
+0.196 g
+186.7599999999999625 787.4648031496062686 Td
+(ANALYTICS & INSIGHTS | BUSINESS INTELLIGENCE) Tj
+ET
+BT
+/F1 7.8 Tf
+8.9699999999999989 TL
+0.235 g
+85.0900000000001882 774.7088976377953031 Td
+(8970445510 | sreeragsrinuu@gmail.com | LinkedIn: linkedin.com/in/sreerag-s-9b25162a7 | GitHub: github.com/sreeragsrinu) Tj
+ET
+BT
+/F1 7.8 Tf
+8.9699999999999989 TL
+0.235 g
+235.6299999999999386 763.9372440944881646 Td
+(Portfolio: sreeragportfolio.netlify.app) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 742.6774015748030706 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 738.9923622047243725 m
+555.5949606299211609 738.9923622047243725 l
+S
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.157 g
+39.6850393700787407 728.2207086614173477 Td
+(BCA Data Science graduate with hands-on, project-based experience in business intelligence, data analysis, and dashboard development) Tj
+T* (using Power BI, Tableau, Excel, SQL, and Python. Skilled in data cleaning, exploratory analysis, KPI reporting, data transformation, and turning) Tj
+T* (complex datasets into clear visual insights. Interested in building reliable, user-focused analytics solutions that support business decisions and) Tj
+T* (stakeholder needs.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 673.2285826771653774 Td
+(TECHNICAL SKILLS) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 669.5435433070865656 m
+555.5949606299211609 669.5435433070865656 l
+S
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.078 g
+39.6850393700787407 658.7718897637795408 Td
+(BI & Visualization: ) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.196 g
+112.6650393700787305 658.7718897637795408 Td
+(Power BI, Tableau, dashboard design, KPI reporting, data storytelling) Tj
+ET
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.078 g
+39.6850393700787407 648.5671653543306547 Td
+(Data Preparation: ) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.196 g
+109.9590393700787416 648.5671653543306547 Td
+(Power Query, Excel, data cleaning, transformation, validation, EDA) Tj
+ET
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.078 g
+39.6850393700787407 638.3624409448818824 Td
+(Querying & Programming: ) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.196 g
+144.3170393700787315 638.3624409448818824 Td
+(SQL, MariaDB, Python, Pandas, NumPy, Matplotlib) Tj
+ET
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.078 g
+39.6850393700787407 628.15771653543311 Td
+(Analytics: ) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.196 g
+80.9310393700787358 628.15771653543311 Td
+(Trend analysis, feature engineering, regression, classification, model evaluation) Tj
+ET
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.078 g
+39.6850393700787407 617.9529921259843377 Td
+(Tools: ) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.196 g
+65.843039370078742 617.9529921259843377 Td
+(Git, GitHub, VS Code, Jupyter Notebook) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 593.5750393700787981 Td
+(PROJECTS) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 589.8899999999999864 m
+555.5949606299211609 589.8899999999999864 l
+S
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 579.1183464566929615 Td
+(Climate-Aware Disease Outbreak Prediction) Tj
+ET
+BT
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.314 g
+211.9100393700788061 579.1183464566929615 Td
+( | Python, Pandas, scikit-learn, Tableau-style dashboard) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 568.9136220472441892 Td
+(• Prepared and analyzed a dataset combining disease cases with rainfall, temperature, and humidity indicators.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 559.2758267716535556 Td
+(• Built time-aware features and compared machine-learning approaches to explore relationships between climate patterns and disease risk.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 549.6380314960630358 Td
+(• Developed a visual reporting concept to communicate trends and potential risk patterns clearly.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 535.7482677165354517 Td
+(Customer Churn & Revenue Impact Analysis) Tj
+ET
+BT
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.314 g
+215.2300393700787993 535.7482677165354517 Td
+( | Python, machine learning, Power BI) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 525.5435433070866793 Td
+(• Analyzed customer churn patterns and developed classification workflows to identify customers at risk of leaving.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 515.9057480314961595 Td
+(• Explored customer value and revenue implications to support retention-focused business recommendations.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 506.2679527559055259 Td
+(• Presented analytical findings through dashboard-oriented reporting and visual summaries.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 492.3781889763779418 Td
+(Olist E-commerce Data Analysis) Tj
+ET
+BT
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.314 g
+166.4260393700787688 492.3781889763779418 Td
+( | SQL, MariaDB) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 482.1734645669291695 Td
+(• Queried multi-table e-commerce data to examine orders, products, customers, and sales performance.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 472.5356692913385928 Td
+(• Used SQL-based analysis to derive business metrics and organize findings for reporting.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 448.7246456692913057 Td
+(VIRTUAL EXPERIENCE) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 445.0396062992125508 m
+555.5949606299211609 445.0396062992125508 l
+S
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 434.2679527559054122 Td
+(Deloitte Australia — Data Analytics Job Simulation, Forage | 2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 424.0632283464566399 Td
+(• Worked through data validation and cleaning, Excel-based exploratory analysis, and business reporting tasks.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 414.4254330708660632 Td
+(• Created an interactive Tableau dashboard to communicate analytical findings.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 400.5356692913384791 Td
+(Tata iQ — GenAI-Powered Data Analytics Virtual Experience, Forage | 2026) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 390.3309448818896499 Td
+(• Identified customer delinquency risk indicators and outlined a no-code predictive framework and AI-supported collections strategy.) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 366.5199212598424197 Td
+(EDUCATION) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 362.8348818897636079 m
+555.5949606299211609 362.8348818897636079 l
+S
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
+0.078 g
+39.6850393700787407 352.0632283464565262 Td
+(Bachelor of Computer Applications \(BCA\), Data Science | Acharya Institute of Graduate Studies, Bengaluru) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.235 g
+39.6850393700787407 341.858503937007697 Td
+(2023–2026) Tj
+ET
+BT
+/F2 9.5 Tf
+10.9249999999999989 TL
+0.078 g
+39.6850393700787407 319.1813385826769718 Td
+(CERTIFICATIONS) Tj
+ET
+0.71 G
+0.9921259842519685 w
+39.6850393700787407 315.4962992125982169 m
+555.5949606299211609 315.4962992125982169 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 304.7246456692911352 Td
+(• IBM Data Science Professional Certificate) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 295.0868503937005016 Td
+(• Data Science Internship Certificate — Coding Monks Innovations) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.176 g
+45.354330708661422 285.4490551181099818 Td
+(• Anthropic AI Fluency Framework & Foundations; AI Capabilities and Limitations; Introduction to Claude Cowork) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261013192153-00'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000008254 00000 n 
+0000010071 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000008311 00000 n 
+0000008436 00000 n 
+0000008566 00000 n 
+0000008699 00000 n 
+0000008836 00000 n 
+0000008959 00000 n 
+0000009088 00000 n 
+0000009220 00000 n 
+0000009356 00000 n 
+0000009484 00000 n 
+0000009611 00000 n 
+0000009740 00000 n 
+0000009873 00000 n 
+0000009975 00000 n 
+0000010319 00000 n 
+0000010405 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <14C930A37563D5481507DC1391002BD3> <14C930A37563D5481507DC1391002BD3> ]
+>>
+startxref
+10509
+%%EOF
